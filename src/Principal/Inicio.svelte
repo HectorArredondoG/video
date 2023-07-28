@@ -30,7 +30,15 @@
 
 <style>
 #play{
-    height:160px;
-    width: 400px;
+    height:685px;
+    width: 500px;
+}
+#xbox{
+    height:685px;
+    width: 500px;
+}
+#nintendo{
+    height:685px;
+    width: 500px;
 }
 </style>

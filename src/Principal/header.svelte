@@ -1,3 +1,4 @@
+<main>
 <div class="container-fluid">
     <nav class="navbar navbar-expand-lg bg-black fixed-top">
         <ul class="inavbar-nav mx-auto barra">
@@ -38,7 +39,7 @@
         </ul>
     </nav>
 </div>
-
+</main>
 <style>
     .barra {
         padding-top: 20px;

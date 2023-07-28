@@ -18,7 +18,7 @@
             <a href=#>
             <img src="statics\ragnarok.webp" class="card-img-top mevale" alt="..."></a>
             <div class="card-body">
-            <h5 class="card-title"> THE LAST OF US </h5>
+            <h5 class="card-title"> RAGNAROK </h5>
             <p class="card-text"> $sinko peso </p>
             </div>
         </div>
@@ -29,7 +29,7 @@
             <a href=#>
             <img src="statics\forza23.jpg" class="card-img-top mevale" alt="..." id="maincra"></a>
             <div class="card-body">
-            <h5 class="card-title"> THE LAST OF US </h5>
+            <h5 class="card-title"> FORZA </h5>
             <p class="card-text"> $sinko peso </p>
             </div>
         </div>
@@ -40,7 +40,7 @@
             <a href=#>
             <img src="statics\elder.webp" class="card-img-top mevale" alt="..." id="maincra"></a>
             <div class="card-body">
-            <h5 class="card-title"> THE LAST OF US </h5>
+            <h5 class="card-title"> ELDEN RING </h5>
             <p class="card-text"> $sinko peso </p>
             </div>
         </div>

@@ -4,6 +4,9 @@ import Noticias from './Principal/Noticias.svelte'
 import Ps from './Principal/Ps.svelte'
 import Xbox from './Principal/Xbox.svelte'
 import Videojuegos from './Principal/Videojuegos.svelte'
+
+
+//Juegos
 import breath from './Principal/breath.svelte'
 import crossing from './Principal/crossing.svelte'
 import elder from './Principal/elder.svelte'
@@ -23,6 +26,8 @@ const routes = {
     '/Noticias':Noticias,
     '/Ps':Ps,
     '/Videojuegos':Videojuegos,
+
+    //Juegos
     '/breath':breath,
     '/crossing':crossing,
     '/elder':elder,

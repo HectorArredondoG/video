@@ -1,6 +1,5 @@
 body {
-  margin: 0;
-  display: flex;
+  margin: 120px;
   place-items: center;
   min-height: 70vh;
 }

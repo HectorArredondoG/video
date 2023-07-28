@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-height: 70vh;
+}
+
+#app {
+  margin: 0 auto;
+  text-align: center;
+}

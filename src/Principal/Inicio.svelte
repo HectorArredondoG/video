@@ -1,5 +1,5 @@
 <script>
-
+ import { push } from "svelte-spa-router";
 </script>
 
 <main>
@@ -7,13 +7,16 @@
     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="statics\nintendo.png" class="d-block w-100" alt="nintendo" id="nintendo">
+            <!-- svelte-ignore a11y-no-noninteractive-element-interactions -->
+            <img src="statics\nintendo.png" class="d-block w-100" alt="nintendo" id="nintendo" on:mousedown={()=> push('/Nintedo')}>
           </div>
           <div class="carousel-item">
-            <img src="statics\play.jfif" class="d-block w-100" alt="play" id="play">
+            <!-- svelte-ignore a11y-no-noninteractive-element-interactions -->
+            <img src="statics\play.jfif" class="d-block w-100" alt="play" id="play" on:mousedown={()=> push('/Ps')}>
           </div>
+          <!-- svelte-ignore a11y-no-noninteractive-element-interactions -->
           <div class="carousel-item">
-            <img src="statics\XboxLogo.webp" class="d-block w-100" alt="xbox" id="xbox">
+            <img src="statics\XboxLogo.webp" class="d-block w-100" alt="xbox" id="xbox" on:mousedown={()=> push('/Xbox')}>
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -30,7 +33,15 @@
 
 <style>
 #play{
-    height:160px;
-    width: 400px;
+    height:685px;
+    width: 500px;
+}
+#xbox{
+    height:685px;
+    width: 500px;
+}
+#nintendo{
+    height:685px;
+    width: 500px;
 }
 </style>

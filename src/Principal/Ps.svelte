@@ -27,7 +27,7 @@
     <div class=col>
         <div class="btn btn-primary" style="width: 22rem;">
             <a href=#>
-            <img src="statics\forza23.jpg" class="card-img-top mevale" alt="..." id="maincra"></a>
+            <img src="statics\forza23.jpg" class="card-img-top mevale" alt="..."></a>
             <div class="card-body">
             <h5 class="card-title"> FORZA </h5>
             <p class="card-text"> $sinko peso </p>
@@ -38,22 +38,24 @@
     <div class=col>
         <div class="btn btn-primary" style="width: 22rem;">
             <a href=#>
-            <img src="statics\elder.jpg" class="card-img-top mevale" alt="..." id="maincra"></a>
-            <div class="card-body">
+            <img src="statics\elder.jpg" class="card-img-top mevale" alt="..."></a>
+            <div class="card-body ">
             <h5 class="card-title"> ELDEN RING </h5>
             <p class="card-text"> $sinko peso </p>
             </div>
         </div>
     </div>
 </div>
-
+<div class="row">
+    <div class="col" style="margin-top: 40px;"></div>
+</div>
 <div class=row>
     <div class=col>
         <div class="btn btn-primary" style="width: 22rem;">
             <a href=#>
-            <img src="statics\persona5.jpg" class="card-img-top mevale" alt="..." id="maincra"></a>
+            <img src="statics\persona5.jpg" class="card-img-top mevale" alt="..."></a>
             <div class="card-body">
-            <h5 class="card-title"> ELDEN RING </h5>
+            <h5 class="card-title"> PERSONA 5 </h5>
             <p class="card-text"> $sinko peso </p>
             </div>
         </div>
@@ -61,9 +63,19 @@
     <div class=col>
         <div class="btn btn-primary" style="width: 22rem;">
             <a href=#>
-            <img src="statics\red.jpg" class="card-img-top mevale" alt="..." id="maincra"></a>
+            <img src="statics\red.jpg" class="card-img-top mevale" alt="..."></a>
             <div class="card-body">
-            <h5 class="card-title"> ELDEN RING </h5>
+            <h5 class="card-title"> RED DEAD REDEMPTION II </h5>
+            <p class="card-text"> $sinko peso </p>
+            </div>
+        </div>
+    </div>
+    <div class=col>
+        <div class="btn btn-primary" style="width: 22rem;">
+            <a href=#>
+            <img src="statics\sekiro.jpg" class="card-img-top mevale" alt="..."></a>
+            <div class="card-body">
+            <h5 class="card-title"> SEKIRO </h5>
             <p class="card-text"> $sinko peso </p>
             </div>
         </div>

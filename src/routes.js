@@ -18,7 +18,10 @@ import ragnarok from './Principal/ragnarok.svelte'
 import red from './Principal/red.svelte'
 import sekiro from './Principal/sekiro.svelte'
 import smash from './Principal/smash.svelte'
+import fire from './Principal/fire.svelte'
 import the_last from './Principal/the_last.svelte'
+import halo from './Principal/Halo.svelte'
+import gears from './Principal/Gears.svelte'
 
 const routes = {
     '/':Inicio,
@@ -40,7 +43,10 @@ const routes = {
     '/red':red,
     '/sekiro':sekiro,
     '/smash':smash,
-    '/the_last':the_last
+    '/fire':fire,
+    '/the_last':the_last,
+    '/halo':halo,
+    '/gears':gears
     
 }
 

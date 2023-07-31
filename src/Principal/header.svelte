@@ -12,6 +12,7 @@
                 </li>
 
                 <li class="nav-item text">
+                    <!-- svelte-ignore a11y-missing-attribute -->
                     <a
                         class="nav-link dropdown-toggle"
                         role="button"

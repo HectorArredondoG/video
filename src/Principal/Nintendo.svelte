@@ -12,7 +12,7 @@
 
     <div class=col>
         <div class="btn btn-primary" style="width: 22rem;">
-            <a href=#>
+            <a href=#/mario_kart>
             <img src="statics\mario_kart.jpg" class="card-img-top mevale" alt="..."></a>
             <div class="card-body">
             <h5 class="card-title"> Mario Kart 8 </h5>
@@ -23,7 +23,7 @@
 
     <div class=col>
         <div class="btn btn-primary" style="width: 22rem;">
-            <a href=#>
+            <a href=#/smash>
             <img src="statics\smash.jpg" class="card-img-top mevale" alt="..."></a>
             <div class="card-body">
             <h5 class="card-title"> Super Smash Bros </h5>
@@ -34,7 +34,7 @@
 
     <div class=col>
         <div class="btn btn-primary" style="width: 22rem;">
-            <a href=#>
+            <a href=#/odyssey>
             <img src="statics\odyssey.jpg" class="card-img-top mevale" alt="..."></a>
             <div class="card-body ">
             <h5 class="card-title"> Mario Odyssey </h5>
@@ -49,7 +49,7 @@
 <div class=row>
     <div class=col>
         <div class="btn btn-primary" style="width: 22rem;">
-            <a href=#>
+            <a href=#/persona5>
             <img src="statics\persona5.jpg" class="card-img-top mevale" alt="..."></a>
             <div class="card-body">
             <h5 class="card-title"> PERSONA 5 </h5>
@@ -59,7 +59,7 @@
     </div>
     <div class=col>
         <div class="btn btn-primary" style="width: 22rem;">
-            <a href=#>
+            <a href=#/fire>
             <img src="statics\three.jpg" class="card-img-top mevale" alt="..."></a>
             <div class="card-body">
             <h5 class="card-title">Fire Emblem </h5>
@@ -69,7 +69,7 @@
     </div>
     <div class=col>
         <div class="btn btn-primary" style="width: 22rem;">
-            <a href=#>
+            <a href=#/crossing>
             <img src="statics\crossing.jpg" class="card-img-top mevale" alt="..."></a>
             <div class="card-body">
             <h5 class="card-title"> Animal Crossing: New Horizons </h5>

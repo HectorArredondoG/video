@@ -4,7 +4,7 @@
 <div class=row>
     <div class=col>
         <div class="btn btn-primary" style="width: 22rem;">
-            <a href=#>
+            <a href=#/the_last>
             <img src="statics\the_last.jpg" class="card-img-top mevale" alt="..."></a>
             <div class="card-body">
             <h5 class="card-title"> THE LAST OF US </h5>
@@ -15,7 +15,7 @@
 
     <div class=col>
         <div class="btn btn-primary" style="width: 22rem;">
-            <a href=#>
+            <a href=#/ragnarok>
             <img src="statics\ragnarok.jpg" class="card-img-top mevale" alt="..."></a>
             <div class="card-body">
             <h5 class="card-title"> RAGNAROK </h5>
@@ -26,7 +26,7 @@
 
     <div class=col>
         <div class="btn btn-primary" style="width: 22rem;">
-            <a href=#>
+            <a href=#/forza>
             <img src="statics\forza23.jpg" class="card-img-top mevale" alt="..."></a>
             <div class="card-body">
             <h5 class="card-title"> FORZA </h5>
@@ -37,7 +37,7 @@
 
     <div class=col>
         <div class="btn btn-primary" style="width: 22rem;">
-            <a href=#>
+            <a href=#/elder>
             <img src="statics\elder.jpg" class="card-img-top mevale" alt="..."></a>
             <div class="card-body ">
             <h5 class="card-title"> ELDEN RING </h5>
@@ -52,7 +52,7 @@
 <div class=row>
     <div class=col>
         <div class="btn btn-primary" style="width: 22rem;">
-            <a href=#>
+            <a href=#/persona5>
             <img src="statics\persona5.jpg" class="card-img-top mevale" alt="..."></a>
             <div class="card-body">
             <h5 class="card-title"> PERSONA 5 </h5>
@@ -62,7 +62,7 @@
     </div>
     <div class=col>
         <div class="btn btn-primary" style="width: 22rem;">
-            <a href=#>
+            <a href=#/red>
             <img src="statics\red.jpg" class="card-img-top mevale" alt="..."></a>
             <div class="card-body">
             <h5 class="card-title"> RED DEAD REDEMPTION II </h5>
@@ -72,7 +72,7 @@
     </div>
     <div class=col>
         <div class="btn btn-primary" style="width: 22rem;">
-            <a href=#>
+            <a href=#/sekiro>
             <img src="statics\sekiro.jpg" class="card-img-top mevale" alt="..."></a>
             <div class="card-body">
             <h5 class="card-title"> SEKIRO </h5>

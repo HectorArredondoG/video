@@ -8,7 +8,7 @@
         <div class="carousel-inner">
           <div class="carousel-item active">
             <!-- svelte-ignore a11y-no-noninteractive-element-interactions -->
-            <img src="statics\nintendo.jpg" class="d-block w-100" alt="nintendo" id="nintendo" on:mousedown={()=> push('/Nintedo')}>
+            <img src="statics\nintendo.jpg" class="d-block w-100" alt="nintendo" id="nintendo" on:mousedown={()=> push('/Nintendo')}>
           </div>
           <div class="carousel-item">
             <!-- svelte-ignore a11y-no-noninteractive-element-interactions -->

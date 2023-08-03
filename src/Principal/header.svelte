@@ -23,13 +23,10 @@
                     </a>
                     <ul class="dropdown-menu bg-black">
                         <li>
-                            <a class="dropdown-item" href="/#/Ps">PlayStation</a
-                            >
+                            <a class="dropdown-item" href="/#/Ps">PlayStation</a>
                         </li>
                         <li>
-                            <a class="dropdown-item" href="/#/Nintendo"
-                                >Nintendo</a
-                            >
+                            <a class="dropdown-item" href="/#/Nintendo">Nintendo</a>
                         </li>
                         <li>
                             <a class="dropdown-item" href="/#/Xbox">Xbox</a>
